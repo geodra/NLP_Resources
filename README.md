@@ -1,6 +1,6 @@
 # NLP_Resources
 
-### Attention
+### LSTM - Attention
 
 Youtube Videos:
 * https://youtu.be/xI0HHN5XKDo
